@@ -340,15 +340,14 @@ customer-churn-prediction/
 ├── README.md
 │
 ├── notebooks/
-│ └── customer_churn_analysis.ipynb
+│   └── customer_churn_analysis.ipynb
 │
 └── images/
-├── project_workflow.png
-├── random_vs_controlled.png
-├── churn_analysis.png
-├── risk_scoring.png
-└── business_recommendations.png
-
+    ├── project_workflow.png
+    ├── random_vs_controlled.png
+    ├── churn_analysis.png
+    ├── risk_scoring.png
+    └── business_recommendations.png
 
 ---
 
@@ -440,7 +439,7 @@ jupyter notebook
 
 Most importantly:
 
-  The goal is not to chase tools. The goal is to learn how to think with data.
+> **CThe goal is not to chase tools. The goal is to learn how to think with data.**
 
 ## Future Improvements
 
@@ -504,9 +503,9 @@ Aspiring Data Analyst | Python | SQL | Excel | Data Analytics
 
 GitHub: github.com/emmy0la
 
-The notebook is the work.
+> **The notebook is the work.
 The README is the front door.
-The next version is the upgrade.
+The next version is the upgrade.**
 
 
 
